@@ -15,13 +15,22 @@ namespace TestPizza.cs
         }
         public double radius
         {
-            get
-            {
-                return radius;
-            }
+            return radius;
+        }
+        public double area
+        {
+           returnMath.pie
+           radius*radius
+        }
         static void Main(string[] args)
         {
+            Pizza.diameter = 16;
+            Console.writeline(pizzadiameter);
 
         }
     }
 }
+        
+       
+       
+       
